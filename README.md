@@ -16,7 +16,9 @@ DigiBot Limited is a cutting-edge IT company offering the following services:
 
 At DigiBot Limited, we are committed to helping businesses thrive in the digital world through innovative strategies and IT solutions.
 
-## Connect With Us
+## Contact Us
+
+📧 Email: [digibotlimited@gmail.com](mailto:digibotlimited@gmail.com)
 
 Stay tuned for updates on our latest projects and services.
 
